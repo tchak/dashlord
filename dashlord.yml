@@ -114,3 +114,7 @@ urls:
     category: startup
   - url: https://anais.beta.gouv.fr
     category: startup
+  - url: https://www.demarches-simplifiees.fr
+    repositories:
+      - betagouv/demarches-simplifiees.fr
+    category: startup
